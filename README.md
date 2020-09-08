@@ -7,4 +7,7 @@ This report will analyze survey data gathered from employees across IBM to gain 
 
 In order to understand the categories represented in the data and the distribution of IBM employees, I generated graphs of important descriptive variables that could be used to answer the question ‘Who is the average IBM employee?’ and perhaps just as importantly, ‘Who isn’t?’ For each of these graphs, I also felt it was important to include information on how the sub-categories relate to attrition. This would allow us to visually identify if any particular group seems to have a unique association with ultimate outcomes in staying or leaving. This is by no means a proof of causality, but rather allows us to view the data through the lens of attrition and keep the goal of our model when visualizing data. 
 
-To visualize the information, I first created a short script in R to map the integer values to their corresponding String labels (as listed in the Kaggle dataset). I then worked in Tableau to create graphs, initially building Sunburst Charts but quickly switching to segmented bar graphs, when the pie-chart-based graph became too messy for larger data. The graphs can be found within the Data_Visualization folder.
+To visualize the information, I first created a short script in R to map the integer values to their corresponding String labels (as listed in the Kaggle dataset). I then worked in Tableau to create graphs, initially building Sunburst Charts but quickly switching to segmented bar graphs, when the pie-chart-based graph became too messy for larger data. All the graphs can be found within the Data_Visualization folder.
+
+
+![alt text](https://github.com/NaveenM12/DataChallenge_IBM_Employees/blob/master/Data_Visualization/Department.png?raw=true)
