@@ -34,7 +34,17 @@ We will now move on to actually modeling attrition. To do this, I programmed a m
 
 1. We had an accuracy of around 86 percent, which while high, was still only slightly higher than the accuracy we would have if we were to always select no. Even after attempting to account for skew, we improved only slightly. This does not mean, however, that our model is incorrect, rather we can see how it does against other values like F1 statistics for which it thrived. 
 
-2. We can also see based on the importance/influence of each variable on the final outcome thanks to Random Forest. The resul: overtime was by far the most important factor in attrition. This brings up an interesting point for further study as well. Do the costs of attrition and high employee turnover outweigh overtime needs. If so, it seems as though IBM should be more flexible with overtime to allow for higher employee retention.
+![alt text](https://github.com/NaveenM12/DataChallenge_IBM_Employees/blob/master/PythonAttritionModel/Model_Results.png?raw=true)
 
 
-Improvement Areas: Women as Labroatory Technicians, improve the performance rating metric
+2. We can also see based on the importance/influence of each variable on the final outcome thanks to Random Forest. The resul: overtime was by far the most important factor in attrition. This brings up an interesting point for further study as well. Do the costs of attrition and high employee turnover outweigh overtime needs. If so, it seems as though IBM should be more flexible with overtime to allow for higher employee retention. The next two highest were stock option level and job level, indicating better opportunities for promotion and pay at other companies that IBM should also weigh against employee turnover in the future. Surpisingly, age was not as high up on the importance chart as anticipated from the graphs.
+
+![alt text](https://github.com/NaveenM12/DataChallenge_IBM_Employees/blob/master/PythonAttritionModel/Variable_Influence.png?raw=true)
+
+
+# ***Looking Forward***
+
+In the future, this report brings to light important steps that the HR department needs to take. 
+
+Additionally, and not previously mentioned, there are major issues with the HR survey that can be corrected to prevent the need for a majority of the data cleaning. First, variables that are shared or arbitrary, such as employee count or employee number, should be removed from the dataset. Additionally, one glaring point was that the 'performance review' metric (as depicted below)
+
