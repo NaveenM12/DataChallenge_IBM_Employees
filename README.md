@@ -30,5 +30,6 @@ Next, at the heart of our analysis, we will visualize data relating to work life
 
 # ***The Model***
 
+See Model folder for code!
 
 Improvement Areas: Women as Labroatory Technicians, improve the performance rating metric
