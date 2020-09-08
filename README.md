@@ -28,5 +28,7 @@ Next, at the heart of our analysis, we will visualize data relating to work life
 ![alt text](https://github.com/NaveenM12/DataChallenge_IBM_Employees/blob/master/Data_Visualization/Total_Working_Years.png?raw=true)
 
 
+# ***The Model***
+
 
 Improvement Areas: Women as Labroatory Technicians, improve the performance rating metric
