@@ -44,7 +44,7 @@ We will now move on to actually modeling attrition. To do this, I programmed a m
 
 # ***Looking Forward***
 
-This report brings to light important steps that the HR department needs to take in the future. Most pressing to the issue of attrition, overtime rules must be further investigated and scrutinized. Additionally, although much of attrition seems to be originating from outside sources, the HR department can look into promoting from within to prevent people from feeling they have a stagnant Job Level. Additionally, although gender was not a major factor in attrition, the analysis from the data visualization clearly shows a lack of women in the workplace, so that should also be an issue worth continuous consideration.   
+This report brings to light important steps that the HR department needs to take in the future. Most pressing to the issue of attrition, overtime rules must be further investigated and scrutinized. Additionally, although much of attrition seems to be originating from outside sources, the HR department can look into promoting from within to prevent people from feeling they have a stagnant Job Level. Further, while gender was not a major factor in attrition, the analysis from the data visualization clearly shows a lack of women in the workplace, so that should also be an issue worth continuous consideration.   
 
 Beyond the results of the data, as an aside, there are major issues with the HR survey that can be corrected to prevent the need for a majority of the data cleaning. First, variables that are shared or arbitrary, such as employee count or employee number, should be removed from the dataset. Additionally, one glaring point was that the 'performance review' metric (as depicted below)
 
