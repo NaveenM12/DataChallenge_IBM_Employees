@@ -30,6 +30,11 @@ Next, at the heart of our analysis, we will visualize data relating to work life
 
 # ***The Model***
 
-See Model folder for code!
+We will now move on to actually modeling attrition. To do this, I programmed a model in Python using scikit-learn to execute a random forest classifier to classify inputs as either attrition positive or negative. The details of cleaning the data and building the model are in the Python folder, but here are some key takeaways:
+
+1. We had an accuracy of around 86 percent, which while high, was still only slightly higher than the accuracy we would have if we were to always select no. Even after attempting to account for skew, we improved only slightly. This does not mean, however, that our model is incorrect, rather we can see how it does against other values like F1 statistics for which it thrived. 
+
+2. We can also see based on the importance/influence of each variable on the final outcome thanks to Random Forest. The resul: overtime was by far the most important factor in attrition. This brings up an interesting point for further study as well. Do the costs of attrition and high employee turnover outweigh overtime needs. If so, it seems as though IBM should be more flexible with overtime to allow for higher employee retention.
+
 
 Improvement Areas: Women as Labroatory Technicians, improve the performance rating metric
