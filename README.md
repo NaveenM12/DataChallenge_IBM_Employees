@@ -9,5 +9,13 @@ In order to understand the categories represented in the data and the distributi
 
 To visualize the information, I first created a short script in R to map the integer values to their corresponding String labels (as listed in the Kaggle dataset). I then worked in Tableau to create graphs, initially building Sunburst Charts but quickly switching to segmented bar graphs, when the pie-chart-based graph became too messy for larger data. All the graphs can be found within the Data_Visualization folder.
 
+### ***Data Visualization***
+
+With the graphs in the folder, we can analyze a few key fields. First, lets begin with gender. It is vitally important that diversity thrive in the workplace at IBM not only for the sake of equality but because a wider-range of people means more creative and innovative products. Thus, to avoid homogenity and dreaded groupthink, diversity metrics like gender are extremely important. Despite this fact, as shown in the pie chart below and bar graph in folder, female's make up just 40% of the sample. Although the number of women at IBM is far below the 50% benchmark, their proportional distribution across jobs and departments is more promising. As can be seen in the two bar graphs below, Women are spread amongst the three departments of Research and Development, HR, and Sales fairly similar to men, with a slight weight on sales. When analyzing specific jobs, the data become more optimistic for women at IBM as well. Women are shown to be holding their own in leadership roles, working at a better than 40:60 ratio in positions as Managers, Research Directors, and Sales Executives. One glaring point, however, is the absence of women as Lab Technicians and should be a focus for HR moving forward. 
 
 ![alt text](https://github.com/NaveenM12/DataChallenge_IBM_Employees/blob/master/Data_Visualization/Department.png?raw=true)
+
+
+
+
+Improvement Areas: Women as Labroatory Technicians, improve the performance rating metric
