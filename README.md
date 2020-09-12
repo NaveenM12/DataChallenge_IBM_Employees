@@ -3,6 +3,8 @@
 Analyzing IBM Employees and Attrition
 Naveen Mirapuri
 
+##The Below is likely to change in next few days with addition of R notebook. Please see folder with R Model for most recent program.
+
 This report will analyze survey data gathered from employees across IBM to gain a clearer image about the community within the company, while also striving to better understand employee attrition and potential causes. Using information from 1,470 employees, the following will first breakdown different groups of IBM workers. These groups will serve as the foundation for visualizing the company's workforce and will also provide data to be used when analyzing important company topics such as diversity and overall satisfaction. We will end up using these groups to develop a model that predicts attrition within IBM employees and can identify the most important contributing variables. With this information, the conclusion contains a final plan for IBM’s HR team on areas of future focus and improvement. 
 
 In order to understand the categories represented in the data and the distribution of IBM employees, I generated graphs of important descriptive variables that could be used to answer the question ‘Who is the average IBM employee?’ and perhaps just as importantly, ‘Who isn’t?’ For each of these graphs, I also felt it was important to include information on how the sub-categories relate to attrition. This would allow us to visually identify if any particular group seems to have a unique association with ultimate outcomes in staying or leaving. This is by no means a proof of causality, but rather allows us to view the data through the lens of attrition and keep the goal of our model when visualizing data. 
