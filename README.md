@@ -33,7 +33,7 @@ When looking at satisfaction, work-life balance and relationships are crucially 
 
 
 # ***The Model***
-# THE BELOW MODEL DESCRIPTION IS OUT OF DATE -- SEE 'R MODEL' FOLDER FOR UP-TO-DATE MODEL!
+# THE BELOW MODEL DESCRIPTION IS OUT OF DATE -- SEE 'R_MODEL' FOLDER FOR UP-TO-DATE MODEL!
 We will now move on to actually modeling attrition. To do this, I programmed a model in Python using scikit-learn to execute a random forest classifier to classify inputs as either attrition positive or negative. The details of cleaning the data and building the model are in the Python folder, but here are some key takeaways:
 
 1. We had an accuracy of around 86 percent, which while high, was still only slightly higher than the accuracy we would have if we were to always select no. Even after attempting to account for skew, we improved only slightly. This does not mean, however, that our model is incorrect, rather we can see how it does against other values like F1 statistics for which it thrived. 
