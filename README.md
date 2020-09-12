@@ -1,5 +1,8 @@
 # DataChallenge_IBM_Employees
 
+# SEE FOLDER R_MODELS FOR ATTRITION PREDICTION MODEL !
+
+
 Analyzing IBM Employees and Attrition
 Naveen Mirapuri
 
